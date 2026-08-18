@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="HYM STUDIO">
+  <rect width="1200" height="280" fill="#ece0d2"/>
+  <rect x="24" y="24" width="1152" height="232" fill="none" stroke="#7c664d" stroke-width="1.5"/>
+  <rect x="36" y="36" width="1128" height="208" fill="none" stroke="#7c664d" stroke-width="0.6"/>
+
+  <text x="600" y="78" text-anchor="middle" fill="#7c664d" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6">HYM · STUDIO</text>
+  <line x1="430" y1="96" x2="770" y2="96" stroke="#7c664d" stroke-width="0.8"/>
+
+  <text x="600" y="160" text-anchor="middle" fill="#573d21" font-family="Georgia, 'Times New Roman', serif" font-size="52">你好，我是 HYM</text>
+  <text x="600" y="202" text-anchor="middle" fill="#7c664d" font-family="Georgia, 'Times New Roman', serif" font-size="18">在 AI 与创作的交界处，做产品、写东西、捏形象</text>
+</svg>
